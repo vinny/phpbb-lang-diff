@@ -7,10 +7,15 @@ This project generates an **HTML visual diff** between the language files of **p
 ## 📂 Project Structure
 
  ├── phpbb-3.3.15/
+ 
  │    └── language/
+ 
  ├── phpbb-4.0.0-a1/
+ 
  │    └── language/
+ 
  ├── phpbb-lang-diff/
+ 
  │    └──  generate\_lang\_diff.sh
 
 ## ⚙️ Prerequisites
